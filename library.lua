@@ -392,7 +392,7 @@ function Library:CreateWindow(GameName)
           local tween2 = TweenService:Create(PopupHolder_1, tweenInfo2, {Position = targetPosition2})
 
           tween1:Play()
-          wait(6)
+          wait(4)
           tween2:Play()
      end
 
