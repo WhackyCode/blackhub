@@ -1,3 +1,6 @@
+-- by whackycode
+-- dont skid without permissions
+
 local TweenService = game:GetService("TweenService")
 
 
